@@ -2,3 +2,17 @@ baseURL: https://fauzanelka.github.io/
 languageCode: en-us
 title: fauzanelka
 theme: PaperMod
+params:
+  homeInfoParams:
+    Title: Hi! I'm Fauzan Elka.
+    Content: >
+      - I'm a software development engineer.
+
+      - Welcome to my blog!
+  socialIcons:
+    - name: github
+      url: https://github.com/fauzanelka
+    - name: telegram
+      url: https://t.me/fauzanelka
+    - name: linkedin
+      url: https://www.linkedin.com/in/fauzanelka/
