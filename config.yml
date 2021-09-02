@@ -8,7 +8,10 @@ params:
   ShowCodeCopyButtons: true
   ShowReadingTime: true
   homeInfoParams:
-    Title: Hi 👋 I'm Fauzan Elka.
+    Title: >
+      - Hi 👋 
+
+      - I'm Fauzan Elka.
     Content: >
       - I'm a software development engineer.
 
