@@ -2,9 +2,13 @@ baseURL: https://fauzanelka.github.io/
 languageCode: en-us
 title: fauzanelka
 theme: PaperMod
+enableRobotsTXT: true
+enableEmoji: true
 params:
+  ShowCodeCopyButtons: true
+  ShowReadingTime: true
   homeInfoParams:
-    Title: Hi! I'm Fauzan Elka.
+    Title: Hi 👋 I'm Fauzan Elka.
     Content: >
       - I'm a software development engineer.
 
