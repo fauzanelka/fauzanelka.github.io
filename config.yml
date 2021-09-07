@@ -1,6 +1,7 @@
 baseURL: https://fauzanelka.id
 languageCode: en-us
 title: fauzanelka
+description: Web development, programming and devops blog.
 theme: PaperMod
 enableRobotsTXT: true
 enableEmoji: true
