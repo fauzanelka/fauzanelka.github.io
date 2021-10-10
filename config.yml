@@ -3,8 +3,20 @@ languageCode: en-us
 title: fauzanelka
 description: Web development, programming and devops blog.
 theme: PaperMod
+enableInlineShortcodes: true
 enableRobotsTXT: true
 enableEmoji: true
+menu:
+  main:
+    - name: About
+      url: about
+      weight: 2
+    - name: Blog
+      url: blog/
+      weight: 1
+taxonomies:
+  series: series
+  tags:
 params:
   env: production
   ShowCodeCopyButtons: true
@@ -13,7 +25,7 @@ params:
     Title: >
       - Hi 👋 
 
-      - I'm Fauzan Elka.
+      - I'm Fauzan.
     Content: >
       - I'm a software development engineer.
 
