@@ -16,7 +16,7 @@ menu:
       weight: 1
 taxonomies:
   series: series
-  tags:
+  tags: tags
 params:
   env: production
   ShowCodeCopyButtons: true
